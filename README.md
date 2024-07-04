@@ -1,4 +1,3 @@
-[![MasterHead](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7")]()
 <h1 align="center">Merhaba 👋, ben Cemal</h1>
 <h3 align="center">Türkiye'den tutkulu bir Bilgisayar Programlama öğrencisi</h3>
 
@@ -18,4 +17,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cemalcancelik&show_icons=true&locale=tr&layout=compact" alt="cemalcancelik" /></p>
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=cemalcancelik&show_icons=true&locale=tr" alt="cemalcancelik" /></p>
-
