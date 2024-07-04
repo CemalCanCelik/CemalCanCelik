@@ -1,3 +1,4 @@
+[![MasterHead]([![MasterHead](https://github.com/alperrkilic/alperrkilic/blob/main/github-banner.gif?raw=true)]())]()
 <h1 align="center">Hi 👋, I'm Cemal</h1>
 <h3 align="center">A passionate Computer Programming student from Türkiye</h3>
 
