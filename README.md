@@ -1,4 +1,5 @@
-[![MasterHead]([![MasterHead](https://github.com/alperrkilic/alperrkilic/blob/main/github-banner.gif?raw=true)]())]()
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="500">
+<br><br>
 <h1 align="center">Hi 👋, I'm Cemal</h1>
 <h3 align="center">A passionate Computer Programming student from Türkiye</h3>
 
